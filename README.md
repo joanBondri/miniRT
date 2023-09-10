@@ -1,11 +1,6 @@
-Certainly! Here's a README for your GitHub repository based on the information you provided:
-
----
-
 # MiniRT - Raytracing Graphics Engine
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/joanBondri/MiniRT)
-![GitHub license](https://img.shields.io/github/license/joanBondri/MiniRT)
 
 ## Overview
 
@@ -84,3 +79,7 @@ cy 50.0,0.0,20.6 0.0,0.0,1.0 14.2 21.42 10,0,255
 The project may include test scenes to showcase its functionality. You can create your own scenes by following the scene description format.
 
 ## Images
+
+![image](https://github.com/joanBondri/miniRT/assets/51259134/c7b377b4-a6be-4b9a-af3f-e11da8331f5c)
+![image](https://github.com/joanBondri/miniRT/assets/51259134/85bcbd43-5469-48a5-bef2-3d7ef5046a2d)
+![image](https://github.com/joanBondri/miniRT/assets/51259134/e570501f-7b44-4a77-8a19-81e50d9396fe)
